@@ -1,7 +1,7 @@
 <?php
-	$dbhost = "localhost";
-	$dbuser = "codecuser";
-	$dbpass = "DiSK12";
+	$dbhost = "[the location where the database is held]";
+	$dbuser = "[username for the database]";
+	$dbpass = "[password for the database]";
 	$dbname = "mountcodec";
 ?>
 	
